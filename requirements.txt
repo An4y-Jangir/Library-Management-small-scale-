@@ -1,0 +1,4 @@
+# Optional dependency for MySQL database connection
+# (If not installed, the application automatically uses the built-in SQLite engine with zero setup)
+mysql-connector-python>=8.0.0
+
